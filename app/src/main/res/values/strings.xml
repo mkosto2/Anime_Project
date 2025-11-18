@@ -1,0 +1,12 @@
+<resources>
+        <string name="app_name">AnimeProject</string>
+        <string name="discover">Discover</string>
+        <string name="search_anime">Search Anime...</string>
+        <string name="action">Action</string>
+        <string name="romance">Romance</string>
+        <string name="sci_fi">Sci-Fi</string>
+        <string name="fantasy">Fantasy</string>
+        <string name="my_list">My Watchlist</string>
+        <string name="title_activity_my_list"> My Watchlist </string>
+
+</resources>
